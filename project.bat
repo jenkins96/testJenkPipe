@@ -1,1 +1,1 @@
-echo "This is a sample message, modi 2!"
+echo "KENDALL ES UN BANANO"
